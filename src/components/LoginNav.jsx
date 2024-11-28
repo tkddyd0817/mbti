@@ -22,7 +22,7 @@ const LoginNav = () => {
         테스트
       </Link>
       <Link
-        to="/results"
+        to="/TestPage"
         className="text-gray-800 hover:text-red-600 font-semibold text-lg"
       >
         결과 보기
